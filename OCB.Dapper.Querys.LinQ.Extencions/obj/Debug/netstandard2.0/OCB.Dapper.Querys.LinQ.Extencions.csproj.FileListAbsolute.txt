@@ -1,0 +1,5 @@
+C:\Users\DELL\proyectos\OCB.Dapper.Querys.LinQ.Extencions\OCB.Dapper.Querys.LinQ.Extencions\bin\Debug\netstandard2.0\OCB.Dapper.Querys.LinQ.Extencions.deps.json
+C:\Users\DELL\proyectos\OCB.Dapper.Querys.LinQ.Extencions\OCB.Dapper.Querys.LinQ.Extencions\bin\Debug\netstandard2.0\OCB.Dapper.Querys.LinQ.Extencions.dll
+C:\Users\DELL\proyectos\OCB.Dapper.Querys.LinQ.Extencions\OCB.Dapper.Querys.LinQ.Extencions\obj\Debug\netstandard2.0\OCB.Dapper.Querys.LinQ.Extencions.csprojAssemblyReference.cache
+C:\Users\DELL\proyectos\OCB.Dapper.Querys.LinQ.Extencions\OCB.Dapper.Querys.LinQ.Extencions\obj\Debug\netstandard2.0\OCB.Dapper.Querys.LinQ.Extencions.AssemblyInfoInputs.cache
+C:\Users\DELL\proyectos\OCB.Dapper.Querys.LinQ.Extencions\OCB.Dapper.Querys.LinQ.Extencions\obj\Debug\netstandard2.0\OCB.Dapper.Querys.LinQ.Extencions.AssemblyInfo.cs
